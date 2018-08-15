@@ -1,0 +1,6 @@
+framework module Pods_ShareCare {
+  umbrella header "Pods-ShareCare-umbrella.h"
+
+  export *
+  module * { export * }
+}

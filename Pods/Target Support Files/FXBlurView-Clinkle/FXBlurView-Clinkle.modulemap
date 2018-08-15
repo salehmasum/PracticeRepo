@@ -1,0 +1,6 @@
+framework module FXBlurView_Clinkle {
+  umbrella header "FXBlurView-Clinkle-umbrella.h"
+
+  export *
+  module * { export * }
+}

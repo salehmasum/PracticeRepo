@@ -1,0 +1,38 @@
+//
+//  PrefixHeader.pch
+//  ShareCare
+//
+//  Created by 朱明 on 17/8/4.
+//  Copyright © 2017年 Alvis. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "AFNetworking.h" 
+#import "AppMacro.h"
+#import "NotificationMacro.h"
+#import "VendorMacro.h"
+#import "UtilsMacro.h"
+#import "EnumMacro.h"
+#import "XMPPService.h"
+#import "UINavigationBar+BackgroundColor.h"
+#import "UINavigationItem+CustombackButton.h"
+#import "API.h"
+#import <SVProgressHUD/SVProgressHUD.h>
+#import "MyFont.h"
+#import "Util.h" 
+#import "BHInfiniteScrollView.h"
+#import <AFNetworking/AFNetworking.h>
+#import <AFNetworking/UIKit+AFNetworking.h>
+#import "HeadImage.h"
+#import "ShareCareHttp.h"
+#import "SQLHelper.h"
+#import "ZXPUnicode.h"
+#import "NotificationHelper.h"
+#import "AudioPlayerHelper.h"
+#import "UIViewController+pop.h" 
+#endif /* PrefixHeader_pch */
